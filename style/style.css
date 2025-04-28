@@ -89,6 +89,9 @@ body{
 
 
 @media screen and (max-width: 500px) {
+    boday{
+        background-color: lightblue;
+    }
     .grid{
         grid-template-columns: 1fr;
     }
